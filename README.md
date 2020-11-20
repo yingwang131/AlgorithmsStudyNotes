@@ -3,8 +3,8 @@ The different algorithms studying notes
 | Data Structure      | Content|
 | ---------- | :-----------:  |
 | 1     | Binary Search| 
-| 2     | Sorting Algorithm| 
-| 3     | Recursion 1,2,3| 
+| 2     | Sorting Algorithm && Recursion 1| 
+| 3     | Recursion 2,3| 
 | 4     | Stack and Queue| 
 | 5     | LinkedList| 
 | 6     | Depth First Search| 
